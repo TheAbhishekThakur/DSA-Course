@@ -1,4 +1,12 @@
-// 34. 5431 => 5 + 4 + 3 + 1 = 13 then 13 => 1 + 3 = 4
+/*
+Problem Statement:
+Given a positive integer, repeatedly calculate the sum of its digits until the result is a single-digit number, and return that final value.
+
+Input: 5431
+Output: 4
+Explanation: 5431 => 5+4+3+1 = 13 => 1+3 = 4
+
+*/
 
 let number = 5431;
 
