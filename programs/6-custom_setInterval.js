@@ -1,4 +1,6 @@
-// Create your own functions that exactly works like setInterval/clearInterval using setTimeout/clearTimeout.
+/* Create custom functions that behave exactly like setInterval and 
+clearInterval using only setTimeout and clearTimeout.
+*/
 
 function customInterval() {
   let intervalId = 0;

@@ -1,4 +1,16 @@
-// Find the pairs which quivalent to the target value?
+/*
+
+Given an array of numbers and a target value,
+find all pairs of elements whose sum is equal to the target value.
+
+Input:
+arr = [1, 2, 3, 4, 5]
+target = 5
+
+Output:
+[[1, 4], [2, 3]]
+
+*/
 
 function findPairs(arr, target) {
   const pairs = [];

@@ -1,5 +1,12 @@
-// Check if an array is a palindrome?
+/* Given an array, check whether it is a palindrome. An array is considered a palindrome if it reads the same forward and backward.
 
+Input: [1, 2, 3, 2, 1]
+Output: true
+
+Input: [1, 2, 3, 4]
+Output: false
+
+*/
 const arr = [1, 2, 3, 2, 1];
 
 function isPalindrome(arr) {

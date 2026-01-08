@@ -1,4 +1,7 @@
-// Deep clone the object with function
+/*
+Write a function to deep clone an object, ensuring that all nested objects and
+functions are copied correctly without sharing references with the original object.
+*/
 
 function deepClone(obj) {
   if (obj === null || typeof obj !== "object") {
