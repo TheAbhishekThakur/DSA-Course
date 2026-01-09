@@ -1,7 +1,5 @@
 # DSA Courses
 
-### 1. DSA Topics
+### 1. Namaste DSA
 
-### 2. Strivers
-
-### 3. Programs
+### 2. Programs
