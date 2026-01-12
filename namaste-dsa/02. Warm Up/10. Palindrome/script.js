@@ -3,6 +3,19 @@
 Question: Check if a given integer is a palindrome. 
 An integer is a palindrome when it reads the same backward as forward.
 
+Example:
+Input: 121
+Output: true
+
+Input: -121
+Output: false
+
+Input: 10
+Output: false
+
+Input: 12321
+Output: true
+
 */
 
 function isPalindrome(num) {
