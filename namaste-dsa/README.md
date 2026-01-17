@@ -1,1 +1,1 @@
-# Strivers A to Z DSA Course
+# Namaste DSA
